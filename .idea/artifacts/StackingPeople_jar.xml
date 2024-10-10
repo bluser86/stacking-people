@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StackingPeople:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StackingPeople_jar</output-path>
+    <root id="archive" name="StackingPeople.jar">
+      <element id="module-output" name="StackingPeople" />
+    </root>
+  </artifact>
+</component>
